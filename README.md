@@ -4,6 +4,10 @@ This repository contains an example project demonstrating the use of FreeRTOS wi
 
 ---
 
+
+https://github.com/user-attachments/assets/8b4f3df5-b00c-40e0-b669-aeabe5802bd5
+
+
 ## Features
 
 - **RTOS Integration:** Utilizes FreeRTOS for task scheduling.
